@@ -23,7 +23,9 @@ Clone this repository to your local machine using https://github.com/rushishah07
   <li>OpenCV</li>
   <li>numpy</li>
 </ul>
+
 ## Output
+<img src="https://user-images.githubusercontent.com/55307527/87252235-061aab80-c48f-11ea-9cd2-ff934573656a.jpeg" width="40%">
 
 ### Author
 
